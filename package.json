@@ -1,0 +1,27 @@
+{
+  "name": "modulo2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "tarea",
+    "semana4"
+  ],
+  "homepage": "https://github.com/Vichern4567/modulo2#readme",
+  "bugs": {
+    "url": "https://github.com/Vichern4567/modulo2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vichern4567/modulo2.git"
+  },
+  "license": "MIT",
+  "author": "Victor Hernandez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
